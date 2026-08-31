@@ -130,3 +130,9 @@ metadata-rag-demo/
 本リポジトリで使用している社内文書は、RAGの動作確認を目的として作成したダミーデータです。
 
 実在する企業・組織の社内文書ではありません。
+
+## 動作確認環境
+
+- CPU: AMD Ryzen 7 5700X
+- RAM: 32GB
+- GPU: NVIDIA GeForce RTX 4070 12GB
